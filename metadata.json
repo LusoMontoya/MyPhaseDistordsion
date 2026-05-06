@@ -1,0 +1,6 @@
+{
+  "name": "Phase-X Multiband Processor",
+  "description": "Professional 3-band audio processor featuring phase distortion, versatile filtering (LP/HP/Notch), and real-time visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
